@@ -3,10 +3,6 @@
 
 - 🔭 Best project [CampingazCe](https://github.com/MatisBevilacqua/CampingazCe)
 
-  
-
-- 👨‍💻 All of my projects are available at [https://matisbevilacqua.github.io/Portfolio/](https://matisbevilacqua.github.io/Portfolio/)
-
 
 <h3  align="left">Languages :</h3>
   
