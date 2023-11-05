@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Matis Bevilacqua</h1>
-<h3 align="center">I study at @EdenSchoolFrance.</h3>
 
 - 🔭 Best project [CampingazCe](https://github.com/MatisBevilacqua/CampingazCe)
 
